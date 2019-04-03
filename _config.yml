@@ -1,34 +1,33 @@
-# --- General options --- #
+ # --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://username.github.io"
+# If you are building a simple GitHub user page (https://smshuai.github.io) then use these settings:
+url: "https://smshuai.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
+#url: "http://smshuai.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
+# Of course don't forget to change the smshuai and projectname to YOUR smshuai and project
 
 # Name of website
-title: My website
+title: Shimin Shuai
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A personal website
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Projects: "projs"
+  Publications: "pubs"
+  Resume: "resume"
+  Social media: "social_media"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Shimin Shuai
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -78,7 +77,7 @@ social-network-links:
   twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -133,7 +132,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Staticman support
 staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : # GitHub smshuai/repository eg. "daattali/beautiful-jekyll"
   branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
   reCaptcha:
