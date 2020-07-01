@@ -4,13 +4,17 @@ title: About me
 subtitle: A little bit more about me
 ---
 
-My name is Shimin Shuai (帅世民). 
+My name is Shimin Shuai (帅世民). I was asked many times about what's the meaning of my name in Chinese.
+My family name (Shuai/帅) simply means handsome in Chinese; my first name is identical to a famous Chinese ruler, the [Emperor Taizong of Tang](https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang), although this is 100% coincidence as the new born registration officer misspelled my name from Shiming to Shimin – a well-known behavior with southern Mandarin accent.
+
 
 ### My History
 #### Seventeen years in Jiujiang
-I was born in Jiujiang, a mid-sized city in southern China. In case you are wondering where it is, see the map below.
+I was born in Jiujiang, a mid-sized city in southern China. In case you are wondering where it is, see the red dot in the map below (source: wikipedia).
 
 ![Jiujiang](img/Location_of_Jiujiang.png)
+
+My childhood was both typcial and atypical among my generations.
 
 #### Four years in Hangzhou
 When I was 17, I moved to Hangzhou for college.
