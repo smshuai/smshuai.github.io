@@ -21,7 +21,7 @@ My childhood was both typical and atypical among my generations.  The typical pa
 #### Four years in Hangzhou
 When I was 17, I graduated from high school and moved to Hangzhou for college. As a so called *paradise* city in China, Hangzhou is full of scenic rivers, parks and trails. I don’t think one can ever forget the beauty of the gorgeous Western Lake.
 
-My time in Zhejiang University (ZJU) is arguably the first turning point in my life. There are two famous questions ask by Zhu Kezhen, who was the president of ZJU during the World War II: *What do you want to do at ZJU? Who do you want to be after graduation?* You can even find these two questions at the main entrance of the Zijin'gang Campus of ZJU today (in the photo below).
+My time at Zhejiang University (ZJU) is arguably the first turning point in my life. There are two famous questions asked by Zhu Kezhen, who was the president of ZJU during the World War II: *What do you want to do at ZJU? Who do you want to be after graduation?* You can still find these two questions at the main entrance of the Zijin'gang Campus today (in the photo below).
 
 ![ZJU](img/zju.jpeg)
 
