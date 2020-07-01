@@ -25,7 +25,7 @@ My time at Zhejiang University (ZJU) is arguably the first turning point in my l
 
 ![ZJU](img/zju.jpeg)
 
-Indeed, it is ZJU where I found my personal passions. 
+Indeed, it is ZJU where I found my personal passions. Inspired by many scientists visiting the university and also Richard Feynman's bestselling biography, I felt like scientist may be the most awesome job. I also decided at my sophomore year that I would like to see the world and study at another country.
 
 #### Five years in Toronto
 After college, I moved to Toronto for PhD studies.
