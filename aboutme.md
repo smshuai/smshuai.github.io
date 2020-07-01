@@ -19,7 +19,11 @@ I was born in Jiujiang, a mid-sized city in southern China. In case you are wond
 My childhood was both typical and atypical among my generations.  The typical part is that I spent most of my time in urban areas, without many opportunities to explore the nature, which I like a lot now.  The atypical part is that unlike many of my peers who were pushed by their parents to attend extracurricular courses, I had the option to spend my time doing what I want to, such as reading (mostly censored versions of fictions for children and teenagers) and playing computer games (I’m still an active gamer!). In middle school, I even settled up a small chemistry lab at home. Although I can't remember what experiments I did and I have also decided to avoid any beakers and test tubes later in college, this early experience made science not an enemy, but a friend.
 
 #### Four years in Hangzhou
-When I was 17, I moved to Hangzhou for college.
+When I was 17, I graduated from high school and moved to Hangzhou for college. My time in Zhejiang University (ZJU) is arguably the first turning point in my life. There are two famous questions ask by Zhu Kezhen, who was the president of ZJU during the World War II: *What do you want to do at ZJU? Who do you want to be after graduation?* You can even find these two questions at the main entrance of the Zijin'gang Campus of ZJU today (in the photo below).
+
+![ZJU](img/zju.jpeg)
+
+Indeed, it is ZJU where I found my personal passions. 
 
 #### Five years in Toronto
 After college, I moved to Toronto for PhD studies.
