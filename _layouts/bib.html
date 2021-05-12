@@ -37,29 +37,29 @@
           
           {% if forloop.length == 1 %}
             {% if author_is_self %}
-              <em>{{author.last}}, {{author.first}}</em>
+              <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>
             {% else %}
-              {{author.last}}, {{author.first}}
+            {{author.first}} {{author.last}} 
             {% endif %}
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>,
+                <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>,
               {% else %}
                 {% if coauthor_url %}
-                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
+                  <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>,
                 {% else %}
-                  {{author.last}}, {{author.first}},
+                {{author.first}} {{author.last}},
                 {% endif %}
               {% endif %}
             {% else %}
               {% if author_is_self %}
-                and <em>{{author.last}}, {{author.first}}</em>
+                and <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
+                  and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
                 {% else %}
-                  and {{author.last}}, {{author.first}}
+                  and {{author.first}} {{author.last}}
                 {% endif %}
               {% endif %}
             {% endunless %}
@@ -69,19 +69,25 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
+        <em style="color:#2bb7b2">{{entry.journal}}</em>
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
       {% if entry.year %}
-        {{entry.year}}
+        ({{entry.year}})
       {% endif %}
       </div>
     {% endif %}
 
     <div class="links">
     {% if entry.abstract %}
-      <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    {% endif %}
+    {% if entry.url %}
+    <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
+    {% endif %}
+    {% if entry.pmid %}
+    <a href="https://pubmed.ncbi.nlm.nih.gov/{{ entry.pmid }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PubMed</a>
     {% endif %}
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>

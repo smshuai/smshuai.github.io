@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: We are hiring
+date: 2021-09-01
 inline: false
 ---
 

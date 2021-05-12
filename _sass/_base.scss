@@ -69,9 +69,9 @@ a, table.table a {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1.5rem;
   a {
-    color: inherit;
+    color: var(--global-text-color-light);
     &:hover {
       color: var(--global-theme-color);
       text-decoration: none;
