@@ -1,19 +1,20 @@
 ---
 layout: page
-title: projects
-order: 2
-permalink: /projects/
-description: A growing collection of 🆒 projects
+title: team
+order: 1
+permalink: /team/
+description: 🥷 <i>H. sapiens</i> studying <i>H. sapiens</i>
 nav: true
-display_categories: [science, fun]
+display_categories:
 horizontal: false
 ---
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
       <h2 class="category">{{category}}</h2>
-      {% assign categorized_projects = site.projects | where: "category", category %}
+      {% assign categorized_projects = site.members | where: "category", category %}
       {% assign sorted_projects = categorized_projects | sort: "importance" %}
       <!-- Generate cards for each project -->
       {% if page.horizontal %}
@@ -35,20 +36,20 @@ horizontal: false
 
   {% else %}
   <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
+    {% assign sorted_projects = site.members | sort: "importance" %}
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
-        <div class="row row-cols-2">
+        <div class="row row-cols-1 no-gutters">
         {% for project in sorted_projects %}
-          {% include projects_hrz.html %}
+          {% include projects_horizontal.html %}
         {% endfor %}
         </div>
       </div>
     {% else %}
       <div class="grid">
         {% for project in sorted_projects %}
-          {% include projects.html %}
+          {% include members.html %}
         {% endfor %}
       </div>
     {% endif %}

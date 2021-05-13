@@ -1,9 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /publication/
+title: publication
 order: 3
-description: 
+description: >
+  Hope this list never ends😊
 years: [2020, 2019, 2017]
 nav: true
 ---

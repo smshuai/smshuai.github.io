@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-06-15
+date: 2021-09-01
 inline: true
 ---
 
-We are ready :smile!
+Our website is ready :smile:!
