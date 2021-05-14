@@ -1,0 +1,47 @@
+---
+layout: default
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 3
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3  # The number of links after the current page
+---
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title", style="color:#ed6b00">{{ site.blog_name }}</h1>
+    <p class="post-description">{{ site.blog_description }}</p>
+  </header>
+
+  <!-- <div class="header-bar">
+    <h1>{{ site.blog_name }}</h1>
+    <h2>{{ site.blog_description }}</h2>
+  </div> -->
+
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      {% if post.inline %}
+        <li>
+          <h4>{{ post.content | remove: '<p>' | remove: '</p>' | emojify }}</h4>
+          <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+          <p>{{ post.description }}</p>
+        </li>
+      {% else %}
+        <li>
+          <h4><a class="news-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+          <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+          <p>{{ post.description }}</p>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  {% include pagination.html %}
+
+</div>

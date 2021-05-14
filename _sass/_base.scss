@@ -176,6 +176,24 @@ a, table.table a {
   color: var(--global-text-color);
 }
 
+// Contact
+.contact {
+  text-align: left;
+  .contact-text {
+    font-size: 1.1rem;
+    a {
+      i::before {
+        color: var(--global-text-color);
+        -webkit-transition: all 0.2s ease-in-out;
+      }
+      &:hover {
+        i::before {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
 // Social (bottom)
 
 .social {
@@ -203,7 +221,7 @@ a, table.table a {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -555,4 +573,27 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+
+// Modal
+.modal {
+  .modal-content{
+    max-width: 90vh;
+  }
+  .modal-title{
+    color: $sustech-orange;
+  }
+  .modal-body{
+    color: $sustech-green;
+    font-size: 1rem;
+  }
+  
+  .modal-body:link {
+    color: $sustech-cyan;
+  }
+  
+  .modal-body:visited {
+    color: $sustech-cyan;
+  }
 }

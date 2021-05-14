@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publication/
-title: publication
+permalink: /publications/
+title: publications
 order: 3
 description: >
   Hope this list never ends😊

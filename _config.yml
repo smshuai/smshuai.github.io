@@ -3,15 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: COmics Lab @ SUSTech # the website title (if blank, full name will be used instead)
+org_name: COmics Lab @ SUSTech
 first_name: 
 middle_name: 
 last_name: 
-email: shimin.shuai@outlook.com
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  <br />Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://github.com/alshedivat/al-folio">al-folio</a> & <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 icon: 🧬 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
@@ -42,7 +42,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: smshuai # your GitHub user name
+github_username:  # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: smshuai # your Twitter handle
 linkedin_username:  # your LinkedIn user name
@@ -59,33 +59,31 @@ wikidata_id: # your wikidata id
 wechat_username: test
 
 contact_note: >
-  Address: School of Medicine, SUSTech, 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China <br />
-  地址：广东省深圳市南山区学苑大道1088号 南方科技大学医学院
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
-# Blog
+# Blog (this is actually news now)
 # -----------------------------------------------------------------------------
 
-blog_name:   # your blog must have a name for it to show up in the nav bar
-blog_description: 
-permalink: 
+blog_name: news  # your blog must have a name for it to show up in the nav bar
+blog_description: <i class="fas fa-bullhorn"></i>&nbsp;Learn what is happening in our group!
+permalink: /news/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: stranger # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
+  posts:
     defaults:
       layout: post
     output: true

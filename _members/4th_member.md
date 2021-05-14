@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recruiting/招募中
-description: Research Assistant<br />科研助理
+description: Research Assistant<br />科研助理<br />&nbsp;
 img: /assets/img/icon4.png
 email: test
 bio: >
