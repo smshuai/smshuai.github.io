@@ -595,6 +595,14 @@ html.transition *:after {
   .modal-body{
     color: $sustech-green;
     font-size: 1rem;
+    a {
+      color: $sustech-cyan;
+      &:hover {
+        color: $sustech-cyan;
+        border-bottom-style: solid;
+        text-decoration: none;
+      }
+    }
   }
   
   .modal-body:link {
