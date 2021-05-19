@@ -15,4 +15,5 @@ The **COmics Lab** is led by [Shimin Shuai, PhD](/team/){:target="\_blank"}, and
 
 To learn more about our research, please see our [projects](/projects/) and [publications](/publications/). Also, don't forget to meet our [team](/team/) and check out current [job opportunities](/jobs/)!
 
-
+<!-- <img src="/assets/img/sustech-logo.png" alt="sustech-logo" width="200"/> -->
+<!-- <img src="/assets/img/sustech-med-logo.png" alt="sustech-med-logo" width="200"/> -->

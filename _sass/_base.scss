@@ -176,11 +176,19 @@ a, table.table a {
   color: var(--global-text-color);
 }
 
+.contact table td {
+  color: var(--global-text-color);
+}
+
+.contact table th {
+  color: var(--global-text-color);
+}
+
 // Contact
 .contact {
   text-align: left;
   .contact-text {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     a {
       i::before {
         color: var(--global-text-color);

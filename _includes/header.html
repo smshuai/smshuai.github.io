@@ -31,6 +31,14 @@
               {% endif %}
             </a>
           </li>
+          <li class="nav-item {% if page.title == 'about_cn' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/about_cn/' | relative_url }}">
+              简介
+              {% if page.title == "about_cn" %}
+                <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           {% if site.blog_name %}
           <!-- Blog -->
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
