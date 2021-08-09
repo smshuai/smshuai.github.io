@@ -1,8 +1,8 @@
 ---
 layout: post
-title: example inline
-date: 2021-04-28 11:12:00-0400
+title: 
+date: 2021-08-09 01:00:00-0400
 inline: true
 ---
 
-Our website is ready :smile:!
+We are opening and hiring soon😃
