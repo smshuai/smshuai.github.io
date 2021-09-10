@@ -48,7 +48,7 @@ Here you can read more about the three main research topics we have at the momen
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
-        <div class="row row-cols-1 no-gutters">
+        <div class="row row-cols-2">
         {% for project in sorted_projects %}
           {% include projects_horizontal.html %}
         {% endfor %}
