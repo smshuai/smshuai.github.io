@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: cancer splicing defects
+description: Find and target abnormal splicing events
 img: /assets/img/3.jpg
 importance: 2
-category: work
+category: science
 ---
 
 Every project has a beautiful feature showcase page.

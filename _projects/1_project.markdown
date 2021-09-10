@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: disease causing variants
+description: Explore genotype-phenotype relationship
 img: /assets/img/12.jpg
 importance: 1
-category: work
+category: science
 ---
 
 Every project has a beautiful feature showcase page.
