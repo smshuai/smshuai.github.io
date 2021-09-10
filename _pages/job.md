@@ -20,7 +20,7 @@ In general, we expect that:
 3. you have published at least one first-author peer-reviewed paper in related topics;
 4. you like our [research](/projects/).
 
-To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustech.edu.cn with title "Apply Postdoc - Your Name", such as "Apply Postdoc - Yasuo Teemo". Additional info is available in Chinese here, but non-Chinese speakers are also welcomed to apply.
+To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustech.edu.cn with title "Apply Postdoc - Your Name", such as "Apply Postdoc - Yasuo Teemo". Additional info is available in Chinese [here](/assets/pdf/COmics_jobs.pdf), but non-Chinese speakers are also welcomed to apply.
 
 
 #### **Student**
