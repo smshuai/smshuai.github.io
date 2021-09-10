@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The **COmics Lab** is led by [Shimin Shuai, PhD](https://www.sustech.edu.cn/zh/facultys/shiminshuai.html){:target="\_blank"}, and is a part of the School of Medicine, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/){:target="\_blank"} at Shenzhen, China. We work at the intersection of biomedical science and data science, and we aim to **develop computational tools for and generate biological insights from large and novel omics data**!
+The **COmics Lab** is led by [Shimin Shuai, PhD](https://www.sustech.edu.cn/en/facultys/shiminshuai.html){:target="\_blank"}, and is a part of the Department of Human Cell Biology and Genetics, School of Medicine, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/){:target="\_blank"} at Shenzhen, China. We work at the intersection of biomedical science and data science, and we aim to **develop computational tools for and generate biological insights from large and novel omics data**!
 
 To learn more about our research, please see our [projects](/projects/) and [publications](/publications/). Also, don't forget to meet our [team](/team/) and check out current [job opportunities](/jobs/)!
 
