@@ -28,4 +28,4 @@ We welcome students at all levels including international students. For PhD/Mast
 
 
 #### **Administrative Assistant and Research Assistant**
-Please click here for details (in Chinese only) if you are interested!
+Please click [here](/assets/pdf/COmics_jobs.pdf) for details (in Chinese only) if you are interested!
