@@ -55,10 +55,10 @@ Here you can read more about the three main research topics we have at the momen
         </div>
       </div>
     {% else %}
-      <div class="grid">
+      <div class="container">
         <div class="row no-gutters">
         {% for project in sorted_projects %}
-          <div class="col-sm mt-3 mt-md-0">
+          <div class="col-sm-4">
           {% include projects.html %}
           </div>
         {% endfor %}

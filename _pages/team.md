@@ -47,10 +47,10 @@ horizontal: false
         </div>
       </div>
     {% else %}
-      <div class="grid">
+      <div class="container">
         <div class="row no-gutters">
         {% for project in sorted_projects %}
-          <div class="col-sm mt-3 mt-md-0">
+          <div class="col-sm-4">
           {% include members.html %}
           </div>
         {% endfor %}
