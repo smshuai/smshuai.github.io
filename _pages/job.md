@@ -9,7 +9,12 @@ display_categories: []
 horizontal: false
 ---
 
-Currently, we are looking for 1 Administrative Assistant (行政助理), 1 Research Assistant (科研助理) and 2 Postdoctoral Fellows. 
+Currently, we are looking for 1 Administrative Assistant, 1 Research Assistant and 2 Postdoctoral Fellows. 
+#### **About SUSTech**
+Southern University of Science and Technology (SUSTech; 南方科技大学) is a public research university established in 2011, funded by the Shenzhen Municipality.  Widely regarded as a pioneer and innovator in collectively moving China’s higher education forward to match the nation’s ever-growing role in the international arena, SUSTech is quickly becoming a globally-renowned university that contributes significantly to the advancement of science and technology by excelling in interdisciplinary research, nurturing creative future leaders and creating knowledge for society.  Located in Shenzhen, one of the fastest growing cities in China and reputed as China’s “Silicon Valley”, SUSTech enjoys strong connections with top global companies and renowned universities around the world. (Source: [Times Higher Education](https://www.timeshighereducation.com/hub/southern-university-science-and-technology))
+
+To learn more about SUSTech, please visit the [official website](https://www.sustech.edu.cn/en/about-en.html).
+
 
 #### **Postdoctoral Fellow**
 
@@ -20,11 +25,13 @@ In general, we expect that:
 3. you have published at least one first-author peer-reviewed paper in related topics;
 4. you like our [research](/projects/).
 
+We initially provide a two-year contract with an annual salary of at least RMB 330,000 (US$51,000). For top candidates, the annual salary can be increased to at least RMB 500,000 (US$77,600). All salaries include government subsidies.
+
 To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustech.edu.cn with title "Apply Postdoc - Your Name", such as "Apply Postdoc - Yasuo Teemo". Additional info is available in Chinese [here](/assets/pdf/COmics_jobs.pdf), but non-Chinese speakers are also welcomed to apply.
 
 
 #### **Student**
-We welcome students at all levels including international students. For PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (shuaism\[at\]sustech.edu.cn). For undergraduate students interested in doing an internship at our lab, please send an email to us directly with a short introduction of yourself.
+We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (shuaism\[at\]sustech.edu.cn). For undergraduate students interested in doing an internship at our lab, please check out our [research](/projects/) and send an email to us directly with a short introduction of yourself.
 
 
 #### **Administrative Assistant and Research Assistant**
