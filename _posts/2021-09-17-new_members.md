@@ -12,7 +12,7 @@ We wish they can enjoy their COmics life and make scientific discovery simultane
 
 You can learn more about them [here](/team/) and please say hi when you meet them at SUSTech.
 
-PS, we also had our first group dinner recently to welcome new members and celebrate the Mid-Autumn Festival together with a future visiting student (Xintong).
+PS, we also had our first group dinner yesterday to welcome new members and celebrate the Mid-Autumn Festival together with a future visiting student (Xintong).
 Cantonese cuisine is sooooo good!
 
 <div class="row mt-3">
