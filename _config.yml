@@ -95,7 +95,7 @@ collections:
     output: true
     permalink: /members/:path/
 
-news_limit: 3
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
