@@ -8,6 +8,6 @@ bio: >
 bio_cn: >
     陶玮是个在广西桂林长大的湖北黄冈人。本科毕业于华中科技大学生物制药系，虽然是跨专业，但她也正在努力成为COmics Lab中能独立完成课题的人。她喜欢排球、游泳、弹琴、唱歌、情节扣人心弦文字温暖的小说、家里两只可爱的汪——边牧布丁和流浪犬东东。
 email: 12133150@mail.sustech.edu.cn
-importance: 2
+importance: 4
 category: Student
 ---
