@@ -9,7 +9,7 @@ display_categories: []
 horizontal: false
 ---
 
-Currently, we are looking for 1 Administrative Assistant, 1 Research Assistant and 2 Postdoctoral Fellows. 
+Currently, we have vacancies for ~~1 Administrative Assistant~~ (occupied), 1 Research Assistant and 2 Postdoctoral Fellows. 
 #### **About SUSTech**
 Southern University of Science and Technology (SUSTech; 南方科技大学) is a public research university established in 2011, funded by the Shenzhen Municipality.  Widely regarded as a pioneer and innovator in collectively moving China’s higher education forward to match the nation’s ever-growing role in the international arena, SUSTech is quickly becoming a globally-renowned university that contributes significantly to the advancement of science and technology by excelling in interdisciplinary research, nurturing creative future leaders and creating knowledge for society.  Located in Shenzhen, one of the fastest growing cities in China and reputed as China’s “Silicon Valley”, SUSTech enjoys strong connections with top global companies and renowned universities around the world. (Source: [Times Higher Education](https://www.timeshighereducation.com/hub/southern-university-science-and-technology))
 
@@ -34,5 +34,5 @@ To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustec
 We welcome students at all levels including international students. For future PhD/Master students, you need to apply through the university program but we are happy to answer your questions by email (shuaism\[at\]sustech.edu.cn). For undergraduate students interested in doing an internship at our lab, please check out our [research](/projects/) and send an email to us directly with a short introduction of yourself.
 
 
-#### **Administrative Assistant and Research Assistant**
+#### **~~Administrative Assistant~~ and Research Assistant**
 Please click [here](/assets/pdf/COmics_jobs.pdf) for details (in Chinese only) if you are interested!
