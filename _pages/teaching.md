@@ -1,5 +1,6 @@
 ---
 layout: page
+order: 4
 permalink: /teaching/
 title: teaching
 description: 
