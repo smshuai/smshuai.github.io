@@ -9,7 +9,7 @@ The Year of Tiger is here! Happy New Year!
 
 We continue to grow over the past few months.
 
-On Nov 1, 2021, Guijun Sun (孙桂军) joined us as the administrative assistant. She has a master degree in Chemistry.
+On Nov 1, 2021, Guijun Sun (孙桂军) joined us as the administrative assistant. She has a master's degree in chemistry.
 
 On Dec 1, 2021, Zican (Skyler) Zhou (周子灿) joined us as a research assistant. She studied biology and math in college.
 
