@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shimin Shuai 帅世民
-description: PI & Assistant Professor<br />助理教授、博士生导师<br />&nbsp;
+description: PI & Associate Professor<br />副教授、博士生导师<br />&nbsp;
 bio: >
     Shimin was born in Jiujiang, Jiangxi, China. He received his BSc from Zhejiang University at 2014 and his PhD from the University of Toronto at 2019. Then he was a <a href="https://www.embl.de/training/postdocs/08-eipod/recruited_eipods/index.html" target="_blank">EIPOD fellow</a> at the European Molecular Biology Laboratory (EMBL) from 2020 to 2021. He started the COmics Lab at SUSTech from Fall 2021. He lives with two cats, Stella and Momo. He loves reading, gaming, traveling and other fun things.
 bio_cn: >
@@ -11,7 +11,7 @@ github: smshuai
 orcid: 0000-0002-9527-8018
 twitter: smshuai
 zhihu: sshuai
-email: shimin.shuai@outlook.com
+email: shuaism@sustech.edu.cn
 scholar: av81zY4AAAAJ
 importance: 1
 category: PI
