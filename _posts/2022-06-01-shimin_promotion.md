@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shimin has been promoted to Associate Professor
-date: 2021-06-01 00:00:01+0000
+date: 2022-06-01 00:00:01+0000
 inline: false
 ---
 
