@@ -60,12 +60,12 @@ horizontal: false
 
   {% endif %}
 
-  <h2>{{Alumni}}</h2>
+  <h2>Alumni</h2>
   <table>
     <tr>
       <th>Name</th>
-      <th>COmics time</th>
-      <th>COmics Position</th>
+      <th>Time in COmics</th>
+      <th>Position in COmics</th>
       <th>Current Position</th>
     </tr>
     <tr>
