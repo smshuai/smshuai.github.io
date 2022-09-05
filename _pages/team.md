@@ -62,4 +62,17 @@ horizontal: false
 
 </div>
 
-Alumni
+
+<h2>{{Alumni}}</h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>COmics Position</th>
+    <th>Current Position</th>
+  </tr>
+  <tr>
+    <td>Guijun Sun</td>
+    <td>Admin Assistant (2021-2022)</td>
+    <td>-</td>
+  </tr>
+</table>
