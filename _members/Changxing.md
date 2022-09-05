@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Nuo Xu 许诺
+title: Changxing Su 苏昌兴
 description: Master's Student<br />硕士研究生<br />&nbsp;
-img: /assets/img/xn.jpeg
-email: 12133168@mail.sustech.edu.cn
+img: /assets/img/icon4.png
+email: 12233060@mail.sustech.edu.cn
 bio: >
     They are too lazy to leave anything here.
 bio_cn: >

@@ -60,6 +60,7 @@ horizontal: false
 
   {% endif %}
 
+  <hr>
   <h2>Alumni</h2>
   <table>
     <tr>
