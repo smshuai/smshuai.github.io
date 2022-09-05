@@ -8,6 +8,6 @@ bio: >
     They are too lazy to leave anything here.
 bio_cn: >
     这个人很懒，什么也没留下。
-importance: 6
+importance: 7
 category: student
 ---
