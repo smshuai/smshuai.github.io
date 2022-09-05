@@ -62,7 +62,7 @@ horizontal: false
 
   <hr>
   <h2>Alumni</h2>
-  <table style="width:100%">>
+  <table style="width:100%">
     <tr>
       <th>Name</th>
       <th>Time in COmics</th>
