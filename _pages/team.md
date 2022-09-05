@@ -5,7 +5,7 @@ order: 1
 permalink: /team/
 description: 🥷 <i>H. sapiens</i> studying <i>H. sapiens</i>
 nav: true
-display_categories:
+display_categories: true
 horizontal: false
 ---
 
@@ -61,3 +61,5 @@ horizontal: false
   {% endif %}
 
 </div>
+
+Alumni

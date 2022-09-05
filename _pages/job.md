@@ -9,7 +9,7 @@ display_categories: []
 horizontal: false
 ---
 
-Currently (July 2022), we have vacancies for 1 Research Associate Professor (Dry Lab), 1 Research & Admin Assistant (Dry Lab), and multiple Postdoctoral Fellows (Wet or Dry Lab).
+Currently (Sep 2022), we have vacancies for 1 Research Assistant Professor (Dry or Wet Lab), and multiple Postdoctoral Fellows (Wet or Dry Lab).
 
 ***Please click [here](/assets/pdf/COmics_jobs_2022.pdf) for details (in Chinese only) if you are interested!***
 
