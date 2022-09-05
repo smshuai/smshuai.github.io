@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Baoling Zhen 甄葆苓
+title: Baoling Zhen
 description: Research Assistant<br />科研助理<br />&nbsp;
 img: /assets/img/bl.jpeg
 email: zhenbl@mail.sustech.edu.cn
