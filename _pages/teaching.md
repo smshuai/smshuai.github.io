@@ -13,6 +13,8 @@ Since the advent of the human genome sequences in 2001, related omics technologi
 ##### **Available Semesters**
 Spring 2022
 
+***
+
 #### **CS112: Introduction to Python Programming**
 ##### **Course Description**
 This course introduces the basic concepts of Python programming language and the corresponding programming skills. The main contents include the Python programming environment setup, main components of Python (variables, operators, data type, etc.), flow control, functions, lists, dictionaries, tuples and sets, input and output, plotting, Numpy, SciPy, Pandas, and objected-oriented programming. Upon finishing the course, the students are expecting to use Python language to solve basic scientific computing problems fluently and efficiently.
