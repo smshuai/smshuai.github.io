@@ -75,6 +75,12 @@ horizontal: false
       <td>Admin Assistant</td>
       <td>-</td>
     </tr>
+        <tr>
+      <td>Baoling Zhen</td>
+      <td>2021-2022</td>
+      <td>Research Assistant</td>
+      <td>-</td>
+    </tr>
   </table>
 </div>
 
