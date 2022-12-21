@@ -83,7 +83,7 @@ horizontal: false
     </tr>
     <tr>
       <td>Xing Wu</td>
-      <td>2022.09-2022.12</td>
+      <td>2022.08-2022.12</td>
       <td>Visiting Student</td>
       <td>-</td>
     </tr>    
