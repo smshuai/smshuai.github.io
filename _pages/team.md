@@ -71,16 +71,22 @@ horizontal: false
     </tr>
     <tr>
       <td>Guijun Sun</td>
-      <td>2021-2022</td>
+      <td>2021.11-2022.08</td>
       <td>Admin Assistant</td>
       <td>-</td>
     </tr>
-        <tr>
+    <tr>
       <td>Baoling Zhen</td>
-      <td>2021-2022</td>
+      <td>2022.01-2022.10</td>
       <td>Research Assistant</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td>Xing Wu</td>
+      <td>2022.09-2022.12</td>
+      <td>Visiting Student</td>
+      <td>-</td>
+    </tr>    
   </table>
 </div>
 
