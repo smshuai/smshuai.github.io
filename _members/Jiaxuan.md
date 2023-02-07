@@ -2,7 +2,7 @@
 layout: page
 title: Jiaxuan Li 李佳轩
 description: Visiting Student<br />访问学生<br />&nbsp;
-img: /assets/img/jiaxuan.jpg
+img: /assets/img/jiaxuan.png
 email: lijiaxuanchn@outlook.com
 bio: >
     He is a people with 96.72% gene from Northern Chinese Han, and he live in Shandong province from kindergarten to university. Besides, 3% of his genes are from homo neanderthalensis. He is a computer programmer whose primary interest is in Genetics. In COMICS, he wants to study life science systematically and to discover the secret between genetic code and human health. He is fond of reading, swimming, and traveling. His New Year’s wishes of 2023 are getting thin, paper publishing and being admitted as a Graduate student. If he succeeds in losing weight, he will change this portrait.  
