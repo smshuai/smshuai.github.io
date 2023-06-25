@@ -67,13 +67,13 @@ horizontal: false
       <th>Name</th>
       <th>Time in COmics</th>
       <th>Position in COmics</th>
-      <th>Current Position</th>
+      <th>Next Position</th>
     </tr>
     <tr>
       <td>Guijun Sun</td>
       <td>2021.11-2022.08</td>
       <td>Admin Assistant</td>
-      <td>-</td>
+      <td>Shihezi University</td>
     </tr>
     <tr>
       <td>Baoling Zhen</td>
@@ -86,8 +86,12 @@ horizontal: false
       <td>2022.08-2022.12</td>
       <td>Visiting Student</td>
       <td>-</td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>Zican Zhou</td>
+      <td>2021.12-2023.06</td>
+      <td>Research Assistant</td>
+      <td>Johns Hopkins University</td>
+    </tr>     
   </table>
 </div>
-
-
