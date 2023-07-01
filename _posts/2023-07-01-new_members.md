@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiple positions available at COmics Lab!
+title: New members and a new grad
 date: 2023-07-01 00:00:01+0000
 inline: false
 ---
