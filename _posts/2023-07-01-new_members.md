@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New grad and member
+title: New grad and members
 date: 2023-07-01 00:00:01+0000
 inline: false
 ---
