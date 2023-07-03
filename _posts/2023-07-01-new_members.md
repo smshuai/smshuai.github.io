@@ -16,5 +16,5 @@ We want to congratulate our first Masters’ student Yi Ren on her graduation. W
     Celebration of Yi Ren's graduation. Photo segmented by the Segment Anything (Meta AI). 
 </div>
 
-Also, three new members have joined the lab and we are excited to welcome them aboard! Rongquan Xiao has joined us a research assistant professor and he will make sure that our wet lab runs smoothly. Yongwei Zhu and Yueshan Liang have joined us as visiting scientist and visiting student respectively; they will spend their summer with us to have fun with some cool projects. We are confident that their skills and expertise will help us achieve our goals.
+Also, three new members have joined the lab and we are excited to welcome them aboard! Rongquan Xiao has joined us as a research assistant professor and he will make sure that our wet lab runs smoothly. Yongwei Zhu and Yueshan Liang have joined us as visiting scientist and visiting student respectively; they will spend their summer with us to have fun with some cool projects. We are confident that their skills and expertise will help us achieve our goals.
 
