@@ -2,7 +2,7 @@
 layout: page
 title: Yi Ren 任怡
 description: Research Assistant<br />科研助理<br />&nbsp;
-img: /assets/img/renyi.png
+img: /assets/avatar/renyi.jpg
 email: 12032587@mail.sustech.edu.cn
 bio: >
     From Mianyang, Sichuan, engaged in cancer computational omics research in COmics Lab. Senior food expert, like spicy food, like staying at home, like horror novels, Pamela occasionally,slightly socially terrified, pretends to be a cow, and is a member of the Holy Fire Miaomiao Religion, currently don’t have a CAT of my own, addicted to cloud cat every day ; hope to raise a golden british shorthair after graduation.

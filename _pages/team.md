@@ -66,7 +66,7 @@ horizontal: false
     <tr>
       <th>Name</th>
       <th>Time in COmics</th>
-      <th>Position in COmics</th>
+      <th>Role in COmics</th>
       <th>Next Position</th>
     </tr>
     <tr>
