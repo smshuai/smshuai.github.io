@@ -85,7 +85,7 @@ horizontal: false
       <td>Xing Wu</td>
       <td>2022.08-2022.12</td>
       <td>Visiting Student</td>
-      <td>-</td>
+      <td>Westlake University</td>
     </tr>
     <tr>
       <td>Zican Zhou</td>
@@ -93,5 +93,17 @@ horizontal: false
       <td>Research Assistant</td>
       <td>Johns Hopkins University</td>
     </tr>     
+    <tr>
+      <td>Yueshan Liang</td>
+      <td>2023.07-2023.08</td>
+      <td>Visiting Student</td>
+      <td>Duke University</td>
+    </tr>
+    <tr>
+      <td>Yongwei Zhu</td>
+      <td>2023.07-2023.08</td>
+      <td>Visiting Scientist</td>
+      <td>Central South University</td>
+    </tr>         
   </table>
 </div>
