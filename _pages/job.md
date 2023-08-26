@@ -9,7 +9,10 @@ display_categories: []
 horizontal: false
 ---
 
-Currently (Sep 2022), we have vacancies for 1 Research Assistant Professor (Dry or Wet Lab), and multiple Postdoctoral Fellows (Wet or Dry Lab).
+Currently (Sep 2023), we have vacancies for multiple Postdoctoral Fellows (Wet or Dry Lab) in the following directions:
+
+1. Disease ecosystems: using single cell and spatial omics to dissect disease ecosystems, with a special focus on host-microbe interactions;
+2. Human genetics: using UK Biobank data to analyze the genetic architecture of complex human traits
 
 ***Please click [here](/assets/pdf/COmics_jobs_2022.pdf) for details (in Chinese only) if you are interested!***
 
