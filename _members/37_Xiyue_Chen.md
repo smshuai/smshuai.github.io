@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xiyue Chen 陈禧悦
-description: Visiting Student<br />访问学生<br />&nbsp;
+description: Master's Student<br />硕士研究生<br />&nbsp;
 bio: >
     She was born in Guangzhou, Guangdong, and finished all her studies in Guangzhou. In 2022, she graduated from the Veterinary Medicine of South China Agricultural University. She came to Shenzhen and joined COMICS in the summer of 2023, in hopes to discover more interesting things in COMICS. She has two lovely dogs, Bobby and Nini. She loves many kinds of sports, especially tennis. She also trying to improve her ability to eat spicy food (so ask her when eating Hunan/Sichuan cuisine).
 bio_cn: >

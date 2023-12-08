@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jiaxuan Li 李佳轩
-description: Visiting Student<br />访问学生<br />&nbsp;
+description: Master's Student<br />硕士研究生<br />&nbsp;
 img: /assets/img/jiaxuan.png
 email: lijiaxuanchn@outlook.com
 bio: >
