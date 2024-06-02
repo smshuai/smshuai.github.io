@@ -5,7 +5,7 @@ title: publications
 order: 3
 description: >
   Hope this list never ends😊
-years: [2020, 2019, 2017]
+years: [2024, 2023, 2022, 2020, 2019, 2017]
 nav: true
 ---
 
