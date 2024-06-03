@@ -9,8 +9,9 @@ years: [2024, 2023, 2022, 2020, 2019, 2017]
 nav: true
 ---
 
+<em style="color:#ed6b00">* COmics members</em>.
+
 <div class="publications">
-* <em style="color:#ed6b00">COmics members</em>.
   
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
