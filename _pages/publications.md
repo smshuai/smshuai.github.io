@@ -10,7 +10,8 @@ nav: true
 ---
 
 <div class="publications">
-
+* <em style="color:#ed6b00">COmics members</em>.
+  
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
