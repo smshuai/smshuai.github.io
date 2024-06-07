@@ -14,8 +14,8 @@ footer_text: >
   <br />Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, <a href="https://github.com/alshedivat/al-folio">al-folio</a> & <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 icon: 🧬 # the emoji used as the favicon
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url: https://comics.bio # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -60,8 +60,8 @@ wechat_username: test
 
 contact_note: >
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
-panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+google_analytics: # out your google-analytics code
+panelbear_analytics: # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog (this is actually news now)
@@ -95,7 +95,7 @@ collections:
     output: true
     permalink: /members/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

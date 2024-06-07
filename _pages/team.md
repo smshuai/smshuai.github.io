@@ -70,6 +70,18 @@ horizontal: false
       <th>Next Position</th>
     </tr>
     <tr>
+      <td>Lanlan Cheng</td>
+      <td>2023.05-2024.06</td>
+      <td>Research Assistant</td>
+      <td>SUSTech</td>
+    </tr>    
+    <tr>
+      <td>Yi Ren</td>
+      <td>2022.01-2024.05</td>
+      <td>MSc Student & RA</td>
+      <td>Industry</td>
+    </tr>    
+    <tr>
       <td>Guijun Sun</td>
       <td>2021.11-2022.08</td>
       <td>Admin Assistant</td>
