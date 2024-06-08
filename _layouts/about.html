@@ -39,6 +39,7 @@ layout: default
       {% include selected_papers.html %}
     {% endif %}
 
+    {% if page.contact %}
     <h2>contact us</h2>
     <div class="contact">
       <div class="table-responsive">
@@ -47,20 +48,25 @@ layout: default
             <th scope="row"><i class="fas fa-envelope" style="font-size: 2rem"></i></th>
             <td style="vertical-align: middle;">shuaism[at]sustech.edu.cn</td>
           </tr>
-          <tr>
+          <!-- <tr>
             <th scope="row"><i class="fas fa-phone" style="font-size: 2rem"></i></th>
             <td style="vertical-align: middle;">+86 755 8801 5015</td>    
-          </tr>
+          </tr> -->
           <tr>
             <th scope="row"><i class="fas fa-map-marked-alt" style="font-size: 2rem"></i></i></th>
-            <td style="vertical-align: middle;">1088 Xueyuan Blvd, Nanshan District, Shenzhen, China</td>   
+            <td style="vertical-align: middle;">Innovation Park 7-604, 1088 Xueyuan Blvd, Nanshan, Shenzhen, China</td>   
+          </tr>
+          <tr>
+            <th scope="row"><i class="fa-solid fa-heart" style="font-size: 2rem"></i></i></th>
+            <td style="vertical-align: middle;">Xiaohongshu (小红书): 2673808366</td>   
           </tr>
         </table>
       </div>
     </div>
+    {% endif %}
+
 
     {% if page.social %}
-    
     <div class="social">
       <div class="contact-icons">
         {% include social.html %}
@@ -68,6 +74,12 @@ layout: default
       <div class="contact-note">{{ site.contact_note }}</div>
     </div>
     {% endif %}
+
+    <p align="center">
+      <img src="/assets/img/comics-logo-01.svg" alt="comics-logo" width="200"/>
+      <img src="/assets/img/LOGO-01.svg" alt="sustech-logo" width="200"/>
+    </p>
+    
   </article>
 
 </div>
