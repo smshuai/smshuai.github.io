@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shiyan Zhang 张诗燕
-description: Admin & Research Assistant<br />行政科研助理<br />&nbsp;
+description: Admin Assistant<br />行政助理<br />&nbsp;
 img: /assets/img/shiyan.jpg
 email: zhangsy@mail.sustech.edu.cn
 bio: >

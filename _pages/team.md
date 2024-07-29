@@ -70,6 +70,12 @@ horizontal: false
       <th>Next Position</th>
     </tr>
     <tr>
+      <td>Nuo Xu</td>
+      <td>2021.09-2024.07</td>
+      <td>MSc Student</td>
+      <td>Beijing Institute of Genomics</td>
+    </tr>  
+    <tr>
       <td>Lanlan Cheng</td>
       <td>2023.05-2024.06</td>
       <td>Research Assistant</td>
@@ -80,31 +86,13 @@ horizontal: false
       <td>2022.01-2024.05</td>
       <td>MSc Student & RA</td>
       <td>Industry</td>
-    </tr>    
-    <tr>
-      <td>Guijun Sun</td>
-      <td>2021.11-2022.08</td>
-      <td>Admin Assistant</td>
-      <td>Shihezi University</td>
     </tr>
     <tr>
-      <td>Baoling Zhen</td>
-      <td>2022.01-2022.10</td>
-      <td>Research Assistant</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Xing Wu</td>
-      <td>2022.08-2022.12</td>
-      <td>Visiting Student</td>
-      <td>Westlake University</td>
-    </tr>
-    <tr>
-      <td>Zican Zhou</td>
-      <td>2021.12-2023.06</td>
-      <td>Research Assistant</td>
-      <td>Johns Hopkins University</td>
-    </tr>     
+      <td>Yongwei Zhu</td>
+      <td>2023.07-2023.08</td>
+      <td>Visiting Scientist</td>
+      <td>Central South University</td>
+    </tr>      
     <tr>
       <td>Yueshan Liang</td>
       <td>2023.07-2023.08</td>
@@ -112,10 +100,28 @@ horizontal: false
       <td>Duke University</td>
     </tr>
     <tr>
-      <td>Yongwei Zhu</td>
-      <td>2023.07-2023.08</td>
-      <td>Visiting Scientist</td>
-      <td>Central South University</td>
-    </tr>         
+      <td>Zican Zhou</td>
+      <td>2021.12-2023.06</td>
+      <td>Research Assistant</td>
+      <td>Johns Hopkins University</td>
+    </tr>   
+    <tr>
+      <td>Xing Wu</td>
+      <td>2022.08-2022.12</td>
+      <td>Visiting Student</td>
+      <td>Westlake University</td>
+    </tr>
+    <tr>
+      <td>Baoling Zhen</td>
+      <td>2022.01-2022.10</td>
+      <td>Research Assistant</td>
+      <td>-</td>
+    </tr> 
+    <tr>
+      <td>Guijun Sun</td>
+      <td>2021.11-2022.08</td>
+      <td>Admin Assistant</td>
+      <td>Shihezi University</td>
+    </tr>
   </table>
 </div>
