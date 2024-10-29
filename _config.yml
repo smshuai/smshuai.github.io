@@ -84,7 +84,7 @@ disqus_shortname: stranger # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  posts:
+  news:
     defaults:
       layout: post
     output: true
@@ -92,9 +92,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  members:
+  team:
     output: true
-    permalink: /members/:path/
+    permalink: /team/:path/
 
 news_limit: 3
 
@@ -169,6 +169,13 @@ scholar:
 
   query: "@*"
 
+# Sitemap settings
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      sitemap: false
+      
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
