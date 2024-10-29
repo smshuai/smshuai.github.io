@@ -16,8 +16,9 @@
 {% endif %}
 
 <!-- Bootstrap & MDB -->
-<link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/{{ site.bootstrap.version }}/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
-<link href="https://cdn.bootcdn.net/ajax/libs/mdbootstrap/4.19.2/css/mdb.min.css" rel="stylesheet" crossorigin="anonymous">
+<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
+<link href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" rel="stylesheet" crossorigin="anonymous">
+<!-- <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/{{ site.bootstrap.version }}/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous"> -->
 <!-- <link href="{{ '/assets/bootstrap-4.5.3-dist/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" integrity="{{ site.bootstrap.integrity.css }}" crossorigin="anonymous"> -->
 <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/{{ site.mdb.version }}/css/mdb.min.css" integrity="{{ site.mdb.integrity.css }}" crossorigin="anonymous" /> -->
 

@@ -1,8 +1,16 @@
 {% if site.enable_mansory %}
-<!-- Mansory & imagesLoaded -->
-<script defer src="https://cdn.bootcdn.net/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
-<script defer src="https://cdn.bootcdn.net/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script>
-<!-- <script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script> -->
-<script defer src="{{ '/assets/js/mansory.js' | relative_url }}" type="text/javascript"></script>
+  <!-- Masonry & imagesLoaded -->
+  <script
+    defer
+    src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"
+    integrity="{{ site.third_party_libraries.masonry.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    defer
+    src="{{ https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js }}"
+    integrity="{{ site.third_party_libraries.imagesloaded.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  <script defer src="{{ '/assets/js/masonry.js' | relative_url }}" type="text/javascript"></script>
 {% endif %}
