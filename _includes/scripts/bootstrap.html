@@ -1,10 +1,18 @@
 <!-- Bootsrap & MDB scripts -->
 <script src="{{ '/assets/js/popper.min.js' | relative_url }}" crossorigin="anonymous"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/{{ site.popper.version }}/umd/popper.min.js" integrity="{{ site.popper.integrity }}" crossorigin="anonymous"></script> -->
 
 <!-- <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/{{ site.bootstrap.version }}/js/bootstrap.min.js" crossorigin="anonymous"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ site.bootstrap.version }}/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ site.bootstrap.version }}/js/bootstrap.min.js" crossorigin="anonymous"></script> -->
 
 <!-- <script src="https://cdn.bootcdn.net/ajax/libs/mdbootstrap/4.19.2/js/mdb.min.js" crossorigin="anonymous"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/{{ site.mdb.version }}/js/mdb.min.js" integrity="{{ site.mdb.integrity.js }}" crossorigin="anonymous"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/{{ site.mdb.version }}/js/mdb.min.js" integrity="{{ site.mdb.integrity.js }}" crossorigin="anonymous"></script> -->
 
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/{{ site.popper.version }}/umd/popper.min.js" integrity="{{ site.popper.integrity }}" crossorigin="anonymous"></script> -->
+
+<script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+<!-- <script src="{{ '/assets/js/mdb.min.js' | relative_url }}"></script> -->
+<script
+  src="{{ https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js }}"
+  integrity="{{ site.third_party_libraries.mdb.integrity.js }}"
+  crossorigin="anonymous"
+></script>
