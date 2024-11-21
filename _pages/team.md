@@ -70,6 +70,12 @@ horizontal: false
       <th>Next Position</th>
     </tr>
     <tr>
+      <td>Wei Tao</td>
+      <td>2021.09-2024.11</td>
+      <td>MSc Student</td>
+      <td>Industry</td>
+    </tr>      
+    <tr>
       <td>Nuo Xu</td>
       <td>2021.09-2024.07</td>
       <td>MSc Student</td>
@@ -103,7 +109,7 @@ horizontal: false
       <td>Zican Zhou</td>
       <td>2021.12-2023.06</td>
       <td>Research Assistant</td>
-      <td>Johns Hopkins University</td>
+      <td>UPenn</td>
     </tr>   
     <tr>
       <td>Xing Wu</td>
