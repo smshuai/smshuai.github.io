@@ -9,7 +9,7 @@ bio_cn: >
 img: /assets/img/shimin.jpeg
 github: smshuai
 orcid: 0000-0002-9527-8018
-twitter: smshuai
+x: smshuai
 zhihu: sshuai
 email: shuaism@sustech.edu.cn
 scholar: av81zY4AAAAJ

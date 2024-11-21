@@ -29,12 +29,16 @@
           {% if project.twitter %}
             <a href="https://twitter.com/{{ project.twitter }}" target="_blank"><i class="fab fa-twitter gh-icon"></i></a>
           {% endif %}
+          {% if project.x %}
+          <a href="https://x.com/{{ project.x }}" target="_blank"><i class="fab fa-x-twitter gh-icon"></i></a>
+          {% endif %}
           {% if project.zhihu %}
           <a href="https://www.zhihu.com/people/{{ project.zhihu }}" target="_blank"><i class="fab fa-zhihu gh-icon"></i></a>
           {% endif %}
           {% if project.weibo %}
           <a href="https://m.weibo.cn/u/{{ project.weibo }}" target="_blank"><i class="fab fa-weibo gh-icon"></i></a>
           {% endif %}
+
           {% if project.researchgate %}
           <a href="https://www.researchgate.net/profile/{{ project.researchgate }}" target="_blank"><i class="fab fa-researchgate gh-icon"></i></a>
           {% endif %}
