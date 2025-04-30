@@ -19,4 +19,4 @@ Spring 2022; Spring 2023; Spring 2024
 ##### **Course Description**
 This course introduces the basic concepts of Python programming language and the corresponding programming skills. The main contents include the Python programming environment setup, main components of Python (variables, operators, data type, etc.), flow control, functions, lists, dictionaries, tuples and sets, input and output, plotting, Numpy, SciPy, Pandas, and objected-oriented programming. Upon finishing the course, the students are expecting to use Python language to solve basic scientific computing problems fluently and efficiently.
 ##### **Available Semesters**
-Fall 2022; Fall 2024
+Fall 2022; Fall 2024; Spring 2025; Fall 2025
