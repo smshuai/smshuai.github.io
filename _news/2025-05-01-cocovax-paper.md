@@ -1,12 +1,9 @@
 ---
 layout: post
-title: CocoVax Published in NAR
+title: New Web Server CocoVax for Rational Vaccine Design Published in *NAR*
 date: 2025-05-01 00:00:01+0000
 inline: false
 ---
-
-
-## New Web Server CocoVax for Rational Vaccine Design Published in *Nucleic Acids Research*
 
 We’re excited to announce the publication of our latest work in the **Web Server issue of _Nucleic Acids Research_**!
 
