@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Web Server CocoVax for Rational Vaccine Design Published in *NAR*
+title: New Web Server CocoVax for Rational Vaccine Design Published in NAR
 date: 2025-05-01 00:00:01+0000
 inline: false
 ---
