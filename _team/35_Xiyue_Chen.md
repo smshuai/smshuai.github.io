@@ -7,7 +7,7 @@ bio: >
 bio_cn: >
     禧悦出生于广东广州，在广州完成了自己从小学到大学的学习生活，于2022年毕业于华南农业大学动物医学专业。在2023年的夏天，她求学的脚步来到了深圳，希望在COMICS进行更多的学习与探索。她有两只可爱的小狗，波比和妮妮。她喜欢各种运动，特别是打网球。最近也在挑战吃辣的食物（所以吃辣的时候可以叫她）。
 
-img: /assets/avatar/xiyuechen.jpeg
+img: /assets/avatar/xiyue-jbl.jpg
 email: xychen1127@outlook.com
 importance: 35
 ---

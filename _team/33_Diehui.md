@@ -2,7 +2,7 @@
 layout: page
 title: Diehui (Walden) Hu 胡蝶慧
 description: Master's Student<br />硕士研究生<br />&nbsp;
-img: /assets/img/diehui.jpg
+img: /assets/img/diehui-jbl.jpg
 email: 12233030@mail.sustech.edu.cn
 bio: >
     Walden Hu was born in Zhuzhou, Hunan and grew up in Shenzhen, Guangdong. She graduated in Bioscience from Central South University , studying population genetics in Chen Chao’s lab. She is now studying immunity, trying to find out something interesting in this area. She is also an extremely cool hiphopper who is high on rap and street dance.
