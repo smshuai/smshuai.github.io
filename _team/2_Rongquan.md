@@ -7,7 +7,7 @@ bio: >
 bio_cn: >
     荣权来自江西赣州。他于2020年在厦门大学获得理学博士学位，他的导师是刘文教授。接下来3年，他留在了实验室，并且完成了博士后工作。他对癌症相关基因的功能、分子机制和靶向干预研究有着广泛的兴趣。科研之外，他喜欢去健身房跑步、徒步旅行和看电影。
 
-img: /assets/avatar/rongquanxiao.jpeg
+img: /assets/avatar/rongquan-jbl.jpg
 email: xiaorq@sustech.edu.cn
 importance: 2
 ---
