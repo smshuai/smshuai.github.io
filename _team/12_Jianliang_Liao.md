@@ -2,7 +2,7 @@
 layout: page
 title: Jianliang Liao 廖健良
 description: Research Assistant<br />科研助理<br />&nbsp;
-img: /assets/avatar/jianliang.png
+img: /assets/avatar/jianliang.jpg
 email: 731301220@qq.com
 bio: >
     Jianliang was born in Shenzhen. In the summer of 2024, he graduated from South China Agriculture University majoring in Veterinary Medicine and came to COmics Lab as a research assistant. He is a shy boy, but he loves to play sports or games with his friends, so let's invite him to join you!
