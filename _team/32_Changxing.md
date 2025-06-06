@@ -2,7 +2,7 @@
 layout: page
 title: Changxing Su 苏昌兴
 description: Master's Student<br />硕士研究生<br />&nbsp;
-img: /assets/img/changxing-jbl.jpg
+img: /assets/avatar/changxing-jbl.jpg
 email: 12233060@mail.sustech.edu.cn
 bio: >
     They are too lazy to leave anything here.
