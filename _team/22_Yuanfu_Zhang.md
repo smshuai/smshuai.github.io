@@ -2,7 +2,7 @@
 layout: page
 title: Yuanfu Zhang 张元福
 description: PhD Student<br />博士研究生<br />&nbsp;
-img: /assets/avatar/yuanfu-zhang.jpeg
+img: /assets/avatar/yuanfu-jbl.jpg
 email: 15663801582@163.com
 bio: >
     I am Zhang Yuanfu, from Xinyang, Henan. Undergraduate and postgraduate students are studying at the School of Bioinformatics Science and Technology of Harbin Medical University, and have been conducting biological multi-omics data analysis. When I am resting alone, I often stay lazy on the bed, but also play badminton with friends.

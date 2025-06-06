@@ -2,7 +2,7 @@
 layout: page
 title: Yining Liang 梁懿宁
 description: PhD Student<br />博士研究生<br />&nbsp;
-img: /assets/avatar/yining.jpg
+img: /assets/avatar/yining-jbl.jpg
 email: yiningliang@foxmail.com
 bio: >
     Yining was born in Wuzhou, Guangxi, China (the birthplace of Cantonese, historically known as Guangxin, at the border between Guangdong and Guangxi). She received her BSc in Bioinformatics from Hunan Agricultural University, and her MSc in Biology from SUSTech. After joining COmics Lab for her PhD, she continues bioinformatics research to explore liver cancer splicing. As an ‘experienced SUSTecher’, Yining has her own rhythm of life. Her wishes are to publish papers and healthily improve her badminton skills. Besides conducting serious scientific research, she proudly represents SUSTech in the badminton team and hopes to continue her hobby and speciality in her PhD. So, if you like to play badminton, don't forget to invite her. Although Yining’s MBTI is ENFP (‘happy puppies’), she prefers kittens. Her pet is a female blue bicolor Ragdoll cat named Cookie.

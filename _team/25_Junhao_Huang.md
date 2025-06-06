@@ -8,7 +8,7 @@ bio: >
 bio_cn: >
     俊豪来自广东佛山顺德，本科和硕士均毕业于中山大学，目前是中山六院的胃肠外科临床型博士生。他的志向是成为一名医生科学家。秉承南方科技大学“明德求是，日新自强”的校训精神，俊豪有幸加入COmics团队进一步学习，希望能与大家友好相处，一起为兴趣发电。
 
-img: /assets/avatar/junhao.jpg
+img: /assets/avatar/junhao-jbl.jpg
 email: huangjh93@mail2.sysu.edu.cn
 importance: 25
 ---
