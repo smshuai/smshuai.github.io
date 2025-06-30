@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSFC PhD grant and Nature Genetics paper
+title: NSFC PhD grant and *Nature Genetics* paper
 date: 2024-06-07 00:00:01+0000
 inline: false
 ---
