@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper on U1 spliceosomal RNA mutations in B-cell neoplasms published in *Leukemia*
+title: New paper on U1 spliceosomal RNA mutations in B-cell neoplasms published in Leukemia
 date: 2025-06-30 00:00:01+0000
 inline: false
 ---
