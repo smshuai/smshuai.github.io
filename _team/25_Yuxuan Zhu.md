@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yuxuan Zhu 朱雨萱
-description: Visiting Student<br />访问学生<br />&nbsp;
+description: PhD Student<br />博士研究生<br />&nbsp;
 bio: >
     Yu Xuan comes from Yulin, Guangxi. She graduated from the Department of Biological Sciences at Beijing Normal University with a bachelor's degree. In addition, she also studied psychology as a minor. She is very happy to join the COmics family and embark on the next stage of exploration and learning. Although she thinks slowly, she has a lot of things she wants to try and doesn't want to miss out on. In her free time, in addition to playing video games, she is also learning ukulele, digital painting creation, and Korean. She is not very good at sports, but likes to join in the fun. She played baseball for three years during her undergraduate studies. She is a slow burner when it comes to personality and hopes to get along well with everyone and make progress together :p
 bio_cn: >
