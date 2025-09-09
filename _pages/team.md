@@ -70,6 +70,18 @@ horizontal: false
       <th>Next Position</th>
     </tr>
     <tr>
+      <td>Diehui Hu</td>
+      <td>2022.09-2025.06</td>
+      <td>MSc Student</td>
+      <td>SUSTech</td>
+    </tr>   
+    <tr>
+      <td>Changxing Su</td>
+      <td>2022.09-2025.06</td>
+      <td>MSc Student</td>
+      <td>Industry</td>
+    </tr>       
+    <tr>
       <td>Wei Tao</td>
       <td>2021.09-2024.11</td>
       <td>MSc Student</td>

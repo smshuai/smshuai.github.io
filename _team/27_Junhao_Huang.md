@@ -10,6 +10,6 @@ bio_cn: >
 
 img: /assets/avatar/junhao-jbl.jpg
 email: huangjh93@mail2.sysu.edu.cn
-importance: 25
+importance: 27
 ---
 
