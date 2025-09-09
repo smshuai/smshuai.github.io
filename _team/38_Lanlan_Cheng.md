@@ -2,7 +2,7 @@
 layout: page
 title: Lanlan Cheng 程兰兰
 description: Master's Student<br />硕士研究生<br />&nbsp;
-img: /assets/img/lanlan-cheng.jpeg
+img: /assets/avatar/lanlan-cheng.jpeg
 email: chengll@mail.sustech.edu.cn
 bio: >
     Lanlan comes from Chongqing, graduated from Henan University of Science and Technology, and major in bioengineering. She has great interest in cancer diagnosis and treatments and hopes to continue to study more in the future. Lanlan likes spicy food and sweet cakes. She also likes to visit museums, the seaside and hang out, and likes Zeng Yico very much.
