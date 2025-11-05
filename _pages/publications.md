@@ -9,7 +9,10 @@ years: [2025, 2024, 2023, 2022, 2020, 2019, 2017]
 nav: true
 ---
 
-\* <u style="color:#ed6b00">COmics members</u>
+**Marks (<u style="color:#ed6b00">COmics member</u> only):**\
+\* (co)-corresponding author\
+\# (co)-first author
+
 
 <div class="publications">
   

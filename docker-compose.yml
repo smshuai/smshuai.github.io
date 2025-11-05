@@ -1,8 +1,7 @@
-version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
-    image: docker.io/library/jekyll-test
+    image: amirpourmand/al-folio:v0.14.6
     build: .
     ports:
       - 8080:8080
