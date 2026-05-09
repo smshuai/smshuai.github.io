@@ -1,7 +1,7 @@
 ---
 layout: page
 title: jobs
-order: 5
+order: 6
 permalink: /jobs/
 description: Come and join us 👋🏼
 nav: true
@@ -9,12 +9,12 @@ display_categories: []
 horizontal: false
 ---
 
-Currently (Sep 2023), we have vacancies for multiple Postdoctoral Fellows (Wet or Dry Lab) in the following directions:
+Currently (May 2026), we have vacancies for multiple Postdoctoral Fellows in the following directions:
 
-1. Disease ecosystems: using single cell and spatial omics to dissect disease ecosystems, with a special focus on host-microbe interactions;
-2. Human genetics: using UK Biobank data to analyze the genetic architecture of complex human traits
+1. **AI for omics (dry lab)**: developing and applying machine learning and AI methods to multi-omics data for biomedical discovery;
+2. **Cancer & microbiology (wet lab)**: experimental work on cancer biology and host–microbe interactions in disease ecosystems.
 
-***Please click [here](/assets/pdf/COmics_jobs_2022.pdf) for details (in Chinese only) if you are interested!***
+***If you are interested, please feel free to contact us by email at shuaism\[at\]sustech.edu.cn for more information.***
 
 #### **About SUSTech**
 Southern University of Science and Technology (SUSTech; 南方科技大学) is a public research university established in 2011, funded by the Shenzhen Municipality.  Widely regarded as a pioneer and innovator in collectively moving China’s higher education forward to match the nation’s ever-growing role in the international arena, SUSTech is quickly becoming a globally-renowned university that contributes significantly to the advancement of science and technology by excelling in interdisciplinary research, nurturing creative future leaders and creating knowledge for society.  Located in Shenzhen, one of the fastest growing cities in China and reputed as China’s “Silicon Valley”, SUSTech enjoys strong connections with top global companies and renowned universities around the world. (Source: [Times Higher Education](https://www.timeshighereducation.com/hub/southern-university-science-and-technology))
@@ -24,16 +24,28 @@ To learn more about SUSTech, please visit the [official website](https://www.sus
 
 #### **Postdoctoral Fellow**
 
-In general, we expect that:
+**General requirements (all candidates):**
 
-1. you have or will soon have a PhD degree in a related field, such as bioinformatics, genomics, computational biology, computer science or statistics etc.;
-2. you can program in at least one language, such as Python, R, Julia, Java or C/C++ etc.;
-3. you have published at least one first-author peer-reviewed paper in related topics;
-4. you like our [research](/projects/).
+1. you have, or will soon have, a PhD degree in a related field;
+2. you have published at least one first-author peer-reviewed paper in a related topic;
+3. you have strong written and oral communication skills in English;
+4. you are self-motivated, collaborative, and excited about our [research](/projects/).
+
+**For AI-for-omics (dry lab) applicants, we additionally expect:**
+
+- a PhD in bioinformatics, computational biology, computer science, statistics, or a related quantitative field;
+- proficiency in at least one programming language (e.g., Python, R, Julia, C/C++);
+- prior experience with omics data analysis and/or modern machine learning / deep learning methods.
+
+**For cancer & microbiology (wet lab) applicants, we additionally expect:**
+
+- a PhD in cancer biology, microbiology, molecular biology, immunology, cell biology, or a related field;
+- hands-on experience with relevant experimental techniques (e.g., cell culture, molecular cloning, mouse models, microbial culture, single-cell / spatial omics, CRISPR-based screens);
+- openness to integrating computational analysis with experimental work.
 
 We initially provide a two-year contract with an annual salary of at least RMB 330,000 (US$51,000). For top candidates, the annual salary can be increased to at least RMB 500,000 (US$77,600). All salaries include government subsidies.
 
-To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustech.edu.cn with title "Apply Postdoc - Your Name", such as "Apply Postdoc - Yasuo Teemo". Additional info is available in Chinese [here](/assets/pdf/COmics_jobs_2022.pdf), but non-Chinese speakers are also welcomed to apply.
+To apply, please send your CV + 3 contacts for references to shuaism\[at\]sustech.edu.cn with title "Apply Postdoc - Your Name", such as "Apply Postdoc - Yasuo Teemo". For more information, please feel free to contact us by email — non-Chinese speakers are also welcomed to apply.
 
 
 #### **Student**

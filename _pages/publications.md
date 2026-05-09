@@ -5,13 +5,11 @@ title: publications
 order: 3
 description: >
   Hope this list never ends😊
-years: [2025, 2024, 2023, 2022, 2020, 2019, 2017]
+years: [2026, 2025, 2024, 2023, 2022, 2020, 2019, 2017]
 nav: true
 ---
 
-**Marks (<u style="color:#ed6b00">COmics member</u> only):**\
-\* (co)-corresponding author\
-\# (co)-first author
+Author roles are shown after <u style="color:#ed6b00">COmics member</u> names only.
 
 
 <div class="publications">

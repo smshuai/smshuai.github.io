@@ -92,6 +92,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  tools:
+    output: true
+    permalink: /tools/:path/
   team:
     output: true
     permalink: /team/:path/

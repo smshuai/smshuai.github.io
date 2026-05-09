@@ -1,0 +1,34 @@
+{% if tool.github %}
+  {% assign primary_url = tool.github %}
+{% elsif tool.website %}
+  {% assign primary_url = tool.website %}
+{% else %}
+  {% assign primary_url = nil %}
+{% endif %}
+
+<div class="tool-item mb-4">
+  <div class="d-flex justify-content-between align-items-baseline">
+    <h3 class="mb-1" style="font-size: 1.4rem;">
+      {% if primary_url %}
+        <a href="{{ primary_url }}" target="_blank" style="color: inherit;">{{ tool.title }}</a>
+      {% else %}
+        {{ tool.title }}
+      {% endif %}
+    </h3>
+    <div class="tool-links text-nowrap" style="font-size: 1.2rem;">
+      {% if tool.github %}
+      <a href="{{ tool.github }}" target="_blank" title="GitHub" class="ml-2"><i class="fab fa-github"></i></a>
+      {% endif %}
+      {% if tool.website %}
+      <a href="{{ tool.website }}" target="_blank" title="Website" class="ml-2"><i class="fas fa-globe"></i></a>
+      {% endif %}
+      {% if tool.paper %}
+      <a href="{{ tool.paper }}" target="_blank" title="Paper" class="ml-2"><i class="ai ai-doi"></i></a>
+      {% endif %}
+      {% if tool.docs %}
+      <a href="{{ tool.docs }}" target="_blank" title="Documentation" class="ml-2"><i class="fas fa-book"></i></a>
+      {% endif %}
+    </div>
+  </div>
+  <p class="mb-0 text-muted">{{ tool.description }}</p>
+</div>

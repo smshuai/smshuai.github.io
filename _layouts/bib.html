@@ -18,54 +18,78 @@
     {% else %}
       <div class="title">{{entry.title}}</div>
       <div class="author">
-        {% for author in entry.author_array %}
-          <!-- {% assign author_is_self = false %}
-          {% if author.last == site.scholar.last_name%}
-            {% if site.scholar.first_name contains author.first%}
-              {% assign author_is_self = true %}
+        {% comment %} Find positions: first author with # (gets "first"), last author with * (gets "corr."). {% endcomment %}
+        {% assign first_first_idx = -1 %}
+        {% assign corr_last_idx = -1 %}
+        {% for a in entry.author_array %}
+          {% if a.last contains '#' %}
+            {% if first_first_idx == -1 %}
+              {% assign first_first_idx = forloop.index0 %}
             {% endif %}
-          {% endif %} -->
-          <!-- {% assign coauthor_url = nil %} -->
-          {% assign normalized_author_last = author.last | replace: '#', '' | replace: '*', '' %}
-          {% assign normalized_author_last = normalized_author_last | strip %}
+          {% endif %}
+          {% if a.last contains '*' %}
+            {% assign corr_last_idx = forloop.index0 %}
+          {% endif %}
+        {% endfor %}
+
+        {% for author in entry.author_array %}
+          {% assign normalized_author_last = author.last | replace: '#', '' | replace: '*', '' | strip %}
+          {% assign is_lab_member = false %}
           {% if site.data.coauthors[normalized_author_last] %}
             {% for coauthor in site.data.coauthors[normalized_author_last] %}
               {% if coauthor.firstname contains author.first %}
-                <!-- {% assign coauthor_url = coauthor.url %} -->
-                {% assign coauthor_url = true %}
+                {% assign is_lab_member = true %}
                 {% break %}
               {% endif %}
             {% endfor %}
           {% endif %}
-          
+
+          {% comment %} Build role label, lab members only — combine into one ( ... ) group {% endcomment %}
+          {% assign role_label = '' %}
+          {% if is_lab_member %}
+            {% assign role_parts = '' %}
+            {% if author.last contains '#' %}
+              {% if forloop.index0 == first_first_idx %}
+                {% assign role_parts = 'first' %}
+              {% else %}
+                {% assign role_parts = 'co-first' %}
+              {% endif %}
+            {% endif %}
+            {% if author.last contains '*' %}
+              {% if forloop.index0 == corr_last_idx %}
+                {% assign corr_text = 'corr.' %}
+              {% else %}
+                {% assign corr_text = 'co-corr.' %}
+              {% endif %}
+              {% if role_parts != '' %}
+                {% assign role_parts = role_parts | append: ', ' | append: corr_text %}
+              {% else %}
+                {% assign role_parts = corr_text %}
+              {% endif %}
+            {% endif %}
+            {% if role_parts != '' %}
+              {% assign role_label = ' (' | append: role_parts | append: ')' %}
+            {% endif %}
+          {% endif %}
+
           {% if forloop.length == 1 %}
-            {% if author_is_self %}
-              <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>
+            {% if is_lab_member %}
+              <em style="color:#ed6b00">{{author.first}} {{normalized_author_last}}</em>{{role_label}}
             {% else %}
-            {{author.first}} {{author.last}} 
+              {{author.first}} {{normalized_author_last}}
             {% endif %}
           {% else %}
             {% unless forloop.last %}
-              {% if author_is_self %}
-                <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>,
+              {% if is_lab_member %}
+                <em style="color:#ed6b00">{{author.first}} {{normalized_author_last}}</em>{{role_label}},
               {% else %}
-                {% if coauthor_url %}
-                  <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>,
-                  <!-- <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>, -->
-                {% else %}
-                {{author.first}} {{author.last}},
-                {% endif %}
+                {{author.first}} {{normalized_author_last}},
               {% endif %}
             {% else %}
-              {% if author_is_self %}
-                and <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>
+              {% if is_lab_member %}
+                and <em style="color:#ed6b00">{{author.first}} {{normalized_author_last}}</em>{{role_label}}
               {% else %}
-                {% if coauthor_url %}
-                  and <em style="color:#ed6b00">{{author.first}} {{author.last}}</em>
-                  <!-- and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a> -->
-                {% else %}
-                  and {{author.first}} {{author.last}}
-                {% endif %}
+                and {{author.first}} {{normalized_author_last}}
               {% endif %}
             {% endunless %}
           {% endif %}
@@ -74,12 +98,15 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em style="color:#2bb7b2">{{entry.journal}}</em>
+        {% assign journal_name = entry.journal | default: entry.journaltitle %}
+        <em style="color:#2bb7b2">{{journal_name}}</em>
       {% elsif entry.type == "inproceedings" %}
         <em>In {{entry.booktitle}}</em>
       {% endif %}
       {% if entry.year %}
         ({{entry.year}})
+      {% elsif entry.date %}
+        ({{entry.date | slice: 0, 4}})
       {% endif %}
       </div>
     {% endif %}
